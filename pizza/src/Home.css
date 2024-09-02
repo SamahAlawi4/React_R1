@@ -1,0 +1,12 @@
+img{
+    height: 5px;
+    width: 200px;
+    border: 1px;
+    border-radius: 12px;
+
+}
+h3{
+    color: aqua;
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+}
